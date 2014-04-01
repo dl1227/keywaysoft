@@ -54,7 +54,7 @@ public class MainActivity extends Activity {
 		// TODO Auto-generated method stub
 
 		if (keyCode == KeyEvent.KEYCODE_BACK) {
-			Log.i("","no exit");
+			Log.i("","no exit...");
 		}
 		return false;
 	}
